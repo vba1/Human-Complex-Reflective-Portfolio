@@ -109,9 +109,12 @@ One challenge our team encountered was that even though we had chosen a topic fo
 # Week 7 
 **What have i learnt this week**
 
-
+This week's lesson we learnt about a few different models which include the Schelling, Granovetter and Standing Ovation models. Schelling's segregation model is predicted through complex interactions in networks. Granovetter's Model showcase how the tail of distributions (the extremes) drive phenomena's to happen. The Standing Ovation models are a peer/group effect, they are a domain to think about when considering how people follow certain rules. Coordination and culture go hand in hand, i learnt how culture can be modelled through a series of coordination games. 
 
 **What do i now know that i did not before**
+
+Something i know now that i don't know before is the concept of how culture can also be modelled through coordination. 
+
 **What theory proved to be useful**
 **What insights have i gained**
 **What are strengths and weaknesses i observed**
@@ -120,7 +123,6 @@ One challenge our team encountered was that even though we had chosen a topic fo
 
 # Week 9 
 **What have i learnt this week**
-
 **What do i now know that i did not before**
 **What theory proved to be useful**
 **What insights have i gained**
@@ -128,7 +130,6 @@ One challenge our team encountered was that even though we had chosen a topic fo
 
 # Week 10 
 **What have i learnt this week 
-
 **What do i now know that i did not before 
 What theory proved to be useful 
 What insights have i gained 
