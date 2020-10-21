@@ -12,10 +12,11 @@ What theory proved to be useful?
 
 All of the theory discussed in the lesson proved to be useful, this is because we need to know the fundamentals of complex systems in order to successfully complete our final assignment. Also, an understanding of complex systems will also be useful in everyday life as we grow older as adults and gain exposure to the outside world. 
 
-
 What are strengths and weaknesses I observed 
 
 One of the weakness i observed is that i was unable to keep focused for the 2+ hours the lesson went for, although we had breaks in the middle it was still a bit diffuclt as it was our first lesson and i wasn't used to being in a class for more than 2 hours. Another weakness is that since alot of information was not on the slides but we had to listen to, it was difficult for me to take notes as we went on; however i hope i will improve with note-taking as the semester goes on. 
+
+# Week 3: Didn't Attend Class 
 
 # Week 2
 
@@ -28,36 +29,56 @@ The things i have learnt this week are that complex systems are indeed complex (
   
 What insights have I gained 
 
-The insights gained this lessons is that all models are wrong, but many are useful; us as humans just have to pick that right number of modest models that can help us better understand problems in complex systems around the world. Complex adaptive systems are the future of our lives and understanding this before we progress into our career will be highly beneficial. 
+The insights gained this lessons is that all models are wrong, but many are useful; us as humans just have to pick that right number of modest models that can help us better understand problems in complex systems around the world. Complex adaptive systems are the future of our lives and understanding this before we progress into our career will be highly beneficial. Another insight gained is that one model has many uses and this can help improve on the wisdom of the crowd, hence models can be taken out of their initial purpose and shifted to another use and they would produce similar or better results highligting the versatility of models. 
 
 What are strengths and weaknesses i observed
 
-It was really easy for me to communicate with my peers and form a group, however since it is just week 2 i couldn't add much on group work but as the semester progresses i will add updates about group work. Other than that there were no weaknesses that i observed this week. 
+The strengths i observed this week was that it was really easy for me to communicate with my peers and form a group, however since it is just week 2 i couldn't add much on group work but as the semester progresses i will add updates about group work. Other than that there were no weaknesses that i observed this week. 
+
+What were the challenges I have encountered/observed and how well did i/my team handle them? 
+
+The challenges i encountered this module was not fully understanding the content being taught, it took me a while to understand the concepts aswell as create a connection on how this content links with the whole course being taught. 
+
+What would I do better next time with what anticipated results? 
+
+I would try do my own research before and after class so i understand the concepts and content. I should also ask more questions in class if i am unsure of something that is being taught. 
 
 # Week 4 
 
 What have I learnt this week 
+
 There are different types of models that increase the level of integration, flexibility and realism within the world. These include system dynamic models, network models and agent based models. System dynamic models analyse different systems and provide feedback on the relationships between the systems and their surroundings. Agent based models are computational  models that stimulate the actions and interactions of autonomous agents with the goals of assessing their effects on the system as a whole. Whereas network models, is a database model that is designed as a flexible approach to represent objects and their relationships. 
 
 What do I now know that I did not before 
 
-What theory proved to be useful  
+I have learnt that all these models can be applied to everyday life, making it easier for us as humans to make predictions. I also learnt about feedback loops and the inclusion of the diagrams helped me understand this foreign concept much better. 
 
-What are strengths and weaknesses I observed 
+What insights have i gained? 
+
+The insights gained this lesson was that not all the models mentioned above can be used for every situation. Agent based models are more suitable for real life situations whereas the other two ( system dynamic and network models) are less effective in stimulating solutions for real world problems. Therefore since my groups' issue is about education i have made note to use agent based models to complete the assignment. 
+
+What are strengths and weaknesses I observed? 
+
+One of the weakness i had this week was not being able to catch up and understand the information as quickly as i would like to. It took me a while to grasp the concepts of all these models are how they are different fromm eachother aswell as which models are suitable for paticular situations. However, a strength i observed was that our group was able to communicate well and form a group chat quickly to talk about the assignment due. 
+
+What would i do better next time with what anticipated results? 
+
+Things i would do better for next lesson is that i would pay more attention in class. Although class being nearly 3 hours long and hard to concentrate in i would like to take small breaks along the way so that i am attentative and listening. 
+
 
 # Week 5
 
 What have I learnt this week 
 
-This week we learnt about probability within complex systems, such as aggregation , regularity and extremities. Probability distributions is a function which describes the likelihood of obtaining a possible value a random variable can take. Regularity describes the normal distributions in a bell shaped curve which usually are depicted with high accuracy. This shows that scores are evenly distributed throughout the scale with the majority distributed in the centre and outliers. 
+This week we learnt about probability within complex systems, such as aggregation, regularity and extremities. Probability distributions is a function which describes the likelihood of obtaining a possible value a random variable can take. Regularity describes the normal distributions in a bell shaped curve which usually are depicted with high accuracy. This shows that scores are evenly distributed throughout the scale with the majority distributed in the centre and outliers. 
 
 What do i now know that I did not before 
 
-Probability models make predictions to be made about random variables and their behaviour with surrounding systems. However these models are not fully accurate, but can be taken as a guide. 
-
-What theory proved to be useful 
+Probability models make predictions to be made about random variables and their behaviour with surrounding systems. However these models are not fully accurate, but can be taken as a guide. In probability the chance of an event likely to occur will always add up to 1, with 0 being on the impossible side and 1 being certain. 
 
 What insights have I gained 
+
+The insights i have gained this lesson was watching the TED talk given by Geoff West, this was something different compared to normal class routine so i found this very interesting. The inisghts gained from the video include how power laws help/contribute to the communications within cities which in turn allow them to thrive. Without these cities will indefinately collapse. 
 
 What are strengths and weaknesses I observed
 
@@ -67,13 +88,41 @@ We had a group meeting to discuss our assignment aswell as pick a topic for our 
 
 What have i learnt this week 
 
-This week we learnt more about probability and path dependence is something that occurs through choices and methodologies of past actions
+This week we learnt more about probability and path dependence is something that occurs through choices and methodologies of past actions. Markov models are used to measure evolution over a period of time. 
 
 What do i now know that i did not before 
 
-What theory proved to be useful 
+I didn't know that random walk models are useful to help business in creating scenarios that stimulate the stock market. They are especially used in areas such as finance. The probability of random walk models is 1/2 and they show the following quality in models: the stock market is unpredicatble in the short term, there is a clear differentiation between luck and skill. 
 
 What insights have i gained 
 
 What are strengths and weaknesses i observed 
+
+# Week 7 
+What have i learnt this week 
+
+What do i now know that i did not before 
+What theory proved to be useful 
+What insights have i gained 
+What are strengths and weaknesses i observed 
+
+# Week 8: Mid-Sem Break 
+
+# Week 9 
+What have i learnt this week 
+
+What do i now know that i did not before 
+What theory proved to be useful 
+What insights have i gained 
+What are strengths and weaknesses i observed 
+
+# Week 10 
+What have i learnt this week 
+
+What do i now know that i did not before 
+What theory proved to be useful 
+What insights have i gained 
+What are strengths and weaknesses i observed 
+
+# Week 11 
 
