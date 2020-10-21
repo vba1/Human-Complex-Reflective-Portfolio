@@ -16,8 +16,6 @@ What are strengths and weaknesses I observed
 
 One of the weakness i observed is that i was unable to keep focused for the 2+ hours the lesson went for, although we had breaks in the middle it was still a bit diffuclt as it was our first lesson and i wasn't used to being in a class for more than 2 hours. Another weakness is that since alot of information was not on the slides but we had to listen to, it was difficult for me to take notes as we went on; however i hope i will improve with note-taking as the semester goes on. 
 
-# Week 3: Didn't Attend Class 
-
 # Week 2
 
 What have I learnt this week
@@ -42,6 +40,8 @@ The challenges i encountered this module was not fully understanding the content
 What would I do better next time with what anticipated results? 
 
 I would try do my own research before and after class so i understand the concepts and content. I should also ask more questions in class if i am unsure of something that is being taught. 
+
+# Week 3: Didn't Attend Class 
 
 # Week 4 
 
@@ -88,18 +88,28 @@ We had a group meeting to discuss our assignment aswell as pick a topic for our 
 
 What have i learnt this week 
 
-This week we learnt more about probability and path dependence is something that occurs through choices and methodologies of past actions. Markov models are used to measure evolution over a period of time. 
+This week we learnt more about probability and path dependence is something that occurs through choices and methodologies of past actions. Markov models are used to measure evolution over a period of time. It shows how likely it is for something to move from one state to another. 
 
 What do i now know that i did not before 
 
-I didn't know that random walk models are useful to help business in creating scenarios that stimulate the stock market. They are especially used in areas such as finance. The probability of random walk models is 1/2 and they show the following quality in models: the stock market is unpredicatble in the short term, there is a clear differentiation between luck and skill. 
+I didn't know that random walk models are useful to help business in creating scenarios that stimulate the stock market. They are especially used in areas such as finance. The probability of random walk models is 1/2 and they show the following quality in models: the stock market is unpredicatble in the short term, there is a clear differentiation between luck and skill. Many of the models have a mathematical element to them, for example the Markov Model involves the manipulation of equations through algebra. The riot model demonstrates an individuals threshold for rioting and can determine the hotspots for where riots would take place. I found this very interesting to learn that there are riot models created. 
 
 What insights have i gained 
 
+The insights i have gained this week is that there are specific models used for each situation/scenario however in saying this multiple models can be used for one problem, this highlights the versatility of models. Another interesting insight gained was that riots have models that predict where they would occur which i found interesting aswell. 
+
 What are strengths and weaknesses i observed 
+
+There were not any strengths i have observed this lesson. But one weakness is thing i should improve is to be more organised before lessons so i have an idea of what is being taught in the lesson beforehand, rather than learning it after the lesson. 
+
+What were the challenges I have encountered/observed and how well did I/my team handle them? 
+
+One challenge our team encountered was that even though we had chosen a topic for our assignment in week 5, our team leader suddenly changed the topic without discussion without our team mates. I am aware this step was taken becuase our previous topic didn't answer the assignments' objectives well, but all our team whould have preffered if the team leader atleast made us aware of the topic being changed. This made it very diffcult for the rest of us as we had to start researching a new topic that we had no say in. However, we resolved this issue at a team meeting and handled the situation well and maturely. 
 
 # Week 7 
 What have i learnt this week 
+
+
 
 What do i now know that i did not before 
 What theory proved to be useful 
