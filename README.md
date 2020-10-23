@@ -113,27 +113,92 @@ This week's lesson we learnt about a few different models which include the Sche
 
 **What do i now know that i did not before**
 
-Something i know now that i don't know before is the concept of how culture can also be modelled through coordination. 
+Something i know now that i don't know before is the concept of how culture can also be modelled through coordination. With the Standing Ovation Model, i learnt that people standing at the front are not influenced by others but have a great influence on everyone behind them. This highlights that the people in front don't conform to societial expectations as oppossed to the people at the back (who cannot be seen) but still conform to society. This highlighted to me how society works and how indivduals have great impact on eachother. 
 
 **What theory proved to be useful**
-**What insights have i gained**
+
+Most of the theory if not all proved to be useful this lesson. This lesson taught me alot of human psychology and how individuals have so much impact on one another and how models can depict this phenomena. 
+
 **What are strengths and weaknesses i observed**
+
+There were no paticular strengths i observed this week, but one weakness is that i struggled to take notes during the lesson, therefore for next lesson i aim to take better notes that allow me to understand the concepts being taught in class. 
 
 # Week 8: Mid-Sem Break 
 
 # Week 9 
 **What have i learnt this week**
+
+The focus of this lesson was to go over our pre-submission task for the assignment. We were put into breakout rooms to discuss our assignment and what changes we have to make before the final submission. Although the tutor didn't get to us during this session, me and my team in our breakout room discussed what sections of the report we still have left and assigned roles for each section. 
+
 **What do i now know that i did not before**
-**What theory proved to be useful**
+
+Since there wasn't anything being taught in this workshop lesson, there wasn't anything that i learnt per say. However, our group went through the report again and we made many edits on mistakes that we didn't find before. Therefore, i learnt how important it is to review your work and  peer-review assignments to produce the best quality work possible. 
+
 **What insights have i gained**
+
+The insights i have gained this workshop was on how to use jupyter notebook properly for our assignment. I also realised how important it is to communicate effectively within my group, the great teamwork between my team members allowed us to successfully submit our pre-submission without any difficulties. Although there were some complications because our topic was changed abruptly, my team still collaborated effectively and efficiently to finish the pre-submission before the deadline. 
+
 **What are strengths and weaknesses i observed**
 
+There were no strengths that i observed this workshop, other than our group completeing the pre-submission and reviewing and correcting our assignment. A weakness i observed was that although our team was able to finish the assignment, we lacked communication between eachother (especially with the team leader). Although this is due to the nature of online learning, in the future i would like to plan meeting so that everyone can attend and are on the same page with the assignment. 
+
+**What were the challenges I have encountered/observed and how did i/my team handle them?**
+
+One of the challenges my team encountered was with the peer-review reflections. Our team leader did a good job by taking the initiative and doing most of the peer review reflection, however the rest of the team members (including myself) would have preffered if she worked with us whist doing the reflection. She already wrote alot of feedback for the other group therefore it was hard for the rest of us to write more feedback because everything was already said or covered. 
+
+**What would i do better next time and with what anticipated results?**
+
+I think it is very important for us as a team to improve our commuication between eachother. This will allow for less misunderstanding and eevryone would know what their role is in the group.
+
 # Week 10 
-**What have i learnt this week 
-**What do i now know that i did not before 
-What theory proved to be useful 
-What insights have i gained 
-What are strengths and weaknesses i observed 
+**What have i learnt this week**
+
+This week was another review lesson for our assignment and this time our tutor gave us extensive feedback which was very valuable for our assignment. He pointed out that all of our section 3 was incorrect and didn't answer the question being asked. Section 3.1 specifically asked about our self study of supermarket models, however we didn't answer this component in our report and hence the other sections following were also answered incorrectly. 
+
+**What do i now know that i did not before **
+
+I wasn't aware that we didn't answer the question properly in section 3, although it was diffcult for us to delete all the hard work that we put into section 3 we knew that it was the right thing to do. However, after a group member's idea we decided to move all the text in section 3 as background information so that our work didn't go to waste. 
+
+**What insights have i gained**
+
+The insights i gained this workshop was that it is very important to communnicate well between our group so that when situations like this arise we can overcome it without any difficulties. 
+
+**What are strengths and weaknesses i observed**
+
+The strengths i observed was my group being able to understand the question for section 3 and starting over again, we did more research and were slowly putting together ideas for section 3. 
 
 # Week 11 
+**What have i learnt this week**
+
+Didn't learn anything paticular this week, we were just editing and reviewing our assignment with the feedback recieved from the peer-review as aswell as Juan. 
+
+**What do i now know that i did not before** 
+
+I didn't know how to use jupyter notebook and how to translate that onto github. Therefore, in this workshop i learnt abit on how to utilise these two programs for our assignment. 
+
+**What were the challenges I have encountered/observed and how did i/my team handle them?**
+
+This week i struggled to use jupyter notebook and github. Our assignment needed to be changed from a readme file to a markdown, however it was very hard for us to do and we struggled to do this because whenever we added text the file we uploaded always coruppted. However, we handled the situation well as we waited for Juan to come and help us which in the end proved to be helpful as we were able to change the file to makrdown. 
+
+**What would i do better next time and with what anticipated results?**
+
+I would ask for assitance and help before so that i am aware of what to fix. It was pretty stressful not being able to change the files without knowing what's wrong. Therefore, next time i would take the initiative to ask for help or ask Juan to check our progress throughout so that we don't make mistakes closer to the deadline of the assignment. 
+
+# Week 12 
+**What have i learnt this week**
+
+This week was the same as last week, we were still reviewing and editing our assignment. We also starting the other sections of the assignment and assigned roles for each section to be more organised than last time. 
+
+**What do i now know that i did not before**
+
+Since there was no theory taught this lesson and it was just us working on our group assignment, there was nothing new that i learnt this workshop other than how to use jupyter notebook. 
+
+**What are strengths and weaknesses i observed**
+
+There was no paticular strengths that i observed this week, however a weakness was communication within our group. We all struggled to pick a time suitable to have group meeting since eevryone was busy so it was hard to complete the work. However we resolved this issue by doing whatever work we can and communicating with eachother what we did. 
+
+
+
+
+
 
