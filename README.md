@@ -155,7 +155,7 @@ I think it is very important for us as a team to improve our commuication betwee
 
 This week was another review lesson for our assignment and this time our tutor gave us extensive feedback which was very valuable for our assignment. He pointed out that all of our section 3 was incorrect and didn't answer the question being asked. Section 3.1 specifically asked about our self study of supermarket models, however we didn't answer this component in our report and hence the other sections following were also answered incorrectly. 
 
-**What do i now know that i did not before **
+**What do i now know that i did not before**
 
 I wasn't aware that we didn't answer the question properly in section 3, although it was diffcult for us to delete all the hard work that we put into section 3 we knew that it was the right thing to do. However, after a group member's idea we decided to move all the text in section 3 as background information so that our work didn't go to waste. 
 
